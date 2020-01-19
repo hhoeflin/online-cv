@@ -55,6 +55,16 @@ career-profile:
       machine learners working on applications in cheminformatics
       as well deep learning on histopathology images.
 
+training:
+    - name: Deep Learning Specialization
+      link: "https://www.coursera.org/account/accomplishments/specialization/QE3DKCYNEBPA"
+      time: 2018
+      university: Coursera
+    - name: Deep Reinforcement Learning Nanodegree
+      link: "https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893"
+      time: Ongoing
+      university: Udacity
+
 education:
     - degree: PhD in Statistics
       university: Stanford University
