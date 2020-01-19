@@ -1,6 +1,6 @@
 {% assign training = site.data.data.training %}
 {% if training %}
-  <section class="section educations-section">
+  <section class="section trainings-section">
 
     <h2 class="section-title">
       <span class="fa-stack fa-xs">
@@ -17,14 +17,14 @@
 
         <div class="upper-row">
 	  {% if course.link %}
-	  <h3 class="degree"><a href="{{ course.link }}">{{ course.name }}</a></h3>
+	  <h3 class="course-name"><a href="{{ course.link }}">{{ course.name }}</a></h3>
 	  {% else %}
-            <h3 class="degree">{{ course.name }}</h3>
+            <h3 class="course-name">{{ course.name }}</h3>
 	  {% endif %}
           <div class="time">{{ course.time }}</div>
         </div><!--//upper-row-->
 
-        <div class="university">{{ course.university }}</div>
+        <div class="provider">{{ course.provider }}</div>
       </div><!--//meta-->
 
       {% if course.details %}

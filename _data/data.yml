@@ -59,11 +59,11 @@ training:
     - name: Deep Learning Specialization
       link: "https://www.coursera.org/account/accomplishments/specialization/QE3DKCYNEBPA"
       time: 2018
-      university: Coursera
+      provider: Coursera
     - name: Deep Reinforcement Learning Nanodegree
       link: "https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893"
       time: Ongoing
-      university: Udacity
+      provider: Udacity
 
 education:
     - degree: PhD in Statistics
