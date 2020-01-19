@@ -3,186 +3,207 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Holger Hoefling
+    tagline: Statistician / Machine Learner / Bioinformatician
+    avatar: portrait_small.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: hhoeflin@gmail.com
+    phone: +41765127769
+    website: hhoeflin.github.io #do not add http://
+    linkedin: holger-höfling-96590552
+    github: hhoeflin
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: German
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      - idiom: English
+        level: Fluent
 
     interests:
-      - item: Climbing
+      - item: Cycling
         link:
 
-      - item: Snowboarding
+      - item: Hiking
         link:
 
-      - item: Cooking
+      - item: Archery
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      In my career I have worked on a wide range of data science
+      problems in the healthcare field. This experience spans
+      from working on clinical study protocols, the development
+      of predictive algorithms for kidney disease to the
+      statistical analysis of experiments in early non-clinical
+      research with microarray, NGS and other biomarker data.
+
+      More recently I have been the leader of a small team of
+      machine learners working on applications in cheminformatics
+      as well deep learning on histopathology images.
+
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: PhD in Statistics
+      university: Stanford University
+      time: 2004 - 2009
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        In my studies at Stanford I focused on topics in statistical
+        learning under my advisor Prof. Dr. Rob Tibshirani.
+        My thesis investigated the estimation of sparse binary
+        Markov networks as well as penalized regression techniques
+        such as the Fused Lasso and resulted in several publications.
+    - degree: MA in Statistics
+      university: University of Michigan, Ann Arbor
+      time: 2002 - 2003
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        During my studies at the University of Ulm, I participated in
+        a Fulbright Exchange program and studied for one year at
+        the University of Michigan in Ann Arbor, finishing the
+        program with a Master's Degree in Statistics
+        at the top of my class. The courses included
+        Probability Theory, Theoretical Statistics as well as
+        Applied Statistics.
+    - degree: Diploma (Master equivalent) in Mathematics and Economics
+      university: University of Ulm, Germany
+      time: 1999 - 2004
+      details: |
+        After high school I studied at the University of Ulm
+        Mathematics and Economics towards a Diplom (equivalent
+        to a Master degree). My main focus was probability
+        theory, statistics and Finance and finished my Diploma
+        thesis under my advisor Prof. Dr. Rüdiger Kiesel.
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Lead of SDA - Machine Learning group
+      time: 2018 - Present
+      company: NX - NIBR, Novartis, Basel
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Lead of 2 associates dedicated to machine learning
+        in the Scientific Data Analysis (SDA) group in NIBR Informatics
+        (NX). The group focuses on application of
+        machine learning in cheminformatics as well as the application
+        of deep learning models on histopathology data.
+
+    - role: Data Scientist in Scientific Data Analysis group
+      time: 2013 - 2018
+      company: NX-NIBR, Novartis, Basel
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        -	Bioinformatics analysis of RNA-Seq and microarray data.
+        -	Statistical Analyses of various experiments with a focus on
+          complicated experimental designs or multiple endpoint
+          questions.
+        -	Machine Learning on accelerometer data to develop an
+          algorithm for prediction of gait speed.
+        -	Deep learning on histopathology images to detect tissue
+          types/lesions.
+        -	Promoted to Senior Investigator I from Investigator III
+          in Sept. 2017.
+    - role: Expert Statistician in Companion Diagnostics
+      time: 2012 - 2013
+      company: Novartis Oncology, Basel
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Merging of "Molecular Diagnostics (MDx)"
+        into Oncology as the new "Companion Diagnostics (CDx)" group.
+        As part of the merger, promoted to "Expert Statistician".
+        Job responsibilities include
+          - Statistical data analysis for “Nephrotest” project
+            developing a diagnostic for detecting Acute Kidney Injury.
+          - Biomarker statistician for Oncology programs
+            Exjade, SOM230 and GP2019.
+
+        Recognized with Passion, Quality and Speed Award in
+        2013 for work on SOM230 project
+    - role: Senior Statistician in Molecular Diagnostics (MDx)
+      time: 2010 - 2012
+      company: Novartis, Basel
+      details: |
+        Main responsibility was the analysis of biomarker data
+        to develop diagnostic algorithms, including the
+        writing of study plans, analysis of clinical trial data as well
+        as presenting results internally and to regulatory agencies.
+        Additional duties included the supervision of interns as
+        well as review of results and study plans from other groups.
+
+        Recognized by MDx for performing duties above and
+        beyond expectations for 3 different projects.
+
 projects:
-    title: Projects
+    title: Open-source software projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Writing software to help other data scientist with their
+      work has always been an important part of what drives
+      my research. Some of the packages that I have developed for
+      the R programming language can be found below.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: hdf5r
+        link: "https://hhoeflin.github.io/hdf5r"
+        tagline: "HDF5 is a data model, library and file format for storing and managing large amounts of data. The hdf5r package provides a nearly feature complete, object oriented wrapper for the 'HDF5' API"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: flsa
+        link: "https://cran.r-project.org/web/packages/flsa/index.html"
+        tagline: "Implements a path algorithm for the Fused Lasso Signal Approximator. For more details see the help files or the article by Hoefling (2009)."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: neariso
+        link: "https://cran.r-project.org/web/packages/neariso/index.html"
+        tagline: "Implements a path algorithm for Near-Isotonic Regression."
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      A selection of recent publications. For a full list
+      please visit my [homepage](hhoeflin.github.io/pages/publications.html)
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: A deep learning-based model of normal histology
+        link: "https://www.biorxiv.org/content/10.1101/838417v1"
+        authors: Sing T\*, Hoefling H\*, Hossain I, Boisclair J, Doelemeyer A, Flandre T, et al. (\* contributed equally)
+        conference: bioRxiv. 2019;838417.
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Continuous Digital Monitoring of Walking Speed in Frail Elderly Patients: Noninterventional Validation Study and Longitudinal Clinical Trial."
+        link: "https://mhealth.jmir.org/2019/11/e15191/"
+        authors: Mueller A, Hoefling HA, Muaremi A, Praestgaard J, Walsh LC, Bunte O, et al.
+        conference: JMIR mHealth and uHealth. 2019;7:e15191.
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Validity of accelerometry in step detection and gait speed measurement in orthogeriatric patients.
+        link: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0221732"
+        authors: Keppler AM, Nuritidinow T, Mueller A, Hoefling H, Schieker M, Clay I, et al.
+        conference: PLOS ONE. 2019;14:e0221732.
+
+     - title: Validity of accelerometry in step detection and gait speed measurement in orthogeriatric patients.Continuous Monitoring of Patient Mobility for 18 Months Using Inertial Sensors following Traumatic Knee Injury: A Case Study. Digital Biomarkers.
+       link: "https://www.karger.com/Article/FullText/490919"
+       authors: Mueller A, Hoefling H, Nuritdinow T, Holway N, Schieker M, Daumer M, et al.
+       conference: Digital Biomarkers. 2018;79–89.
+
+     - title: Reproducible Research for large scale data analysis.
+       authors: Hoeﬂing H, Rossini A.
+       conference: Implementing Reproducible Research. New York: Chapman and Hall/CRC; 2014. p. 219–40.
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: R (Statistics, Package programming)
+        level: 99%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Python (Packages, Machine Learning)
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Linux (CLI, makefiles, compile from source)
+        level: 90%
 
-      - name: Sketch & Photoshop
+      - name: Microsoft Office
         level: 60%
 
 footer: >
