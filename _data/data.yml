@@ -164,31 +164,29 @@ publications:
     title: Publications
     intro: |
       A selection of recent publications. For a full list
-      please visit my [homepage](hhoeflin.github.io/pages/publications.html)
+      please visit my [homepage](https://hhoeflin.github.io/pages/publications/)
     papers:
       - title: A deep learning-based model of normal histology
         link: "https://www.biorxiv.org/content/10.1101/838417v1"
-        authors: Sing T\*, Hoefling H\*, Hossain I, Boisclair J, Doelemeyer A, Flandre T, et al. (\* contributed equally)
+        authors: 'Sing T*, Hoefling H*, Hossain I, Boisclair J, Doelemeyer A, Flandre T, et al. (* contr. equally)'
         conference: bioRxiv. 2019;838417.
-
-      - title: "Continuous Digital Monitoring of Walking Speed in Frail Elderly Patients: Noninterventional Validation Study and Longitudinal Clinical Trial."
+      - title: 'Continuous Digital Monitoring of Walking Speed in Frail Elderly Patients: Noninterventional Validation Study and Longitudinal Clinical Trial.'
         link: "https://mhealth.jmir.org/2019/11/e15191/"
         authors: Mueller A, Hoefling HA, Muaremi A, Praestgaard J, Walsh LC, Bunte O, et al.
         conference: JMIR mHealth and uHealth. 2019;7:e15191.
-
       - title: Validity of accelerometry in step detection and gait speed measurement in orthogeriatric patients.
         link: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0221732"
         authors: Keppler AM, Nuritidinow T, Mueller A, Hoefling H, Schieker M, Clay I, et al.
         conference: PLOS ONE. 2019;14:e0221732.
+      - title: 'Validity of accelerometry in step detection and gait speed measurement in orthogeriatric patients. Continuous Monitoring of Patient Mobility for 18 Months Using Inertial Sensors following Traumatic Knee Injury: A Case Study. Digital Biomarkers.'
+        link: "https://www.karger.com/Article/FullText/490919"
+        authors: Mueller A, Hoefling H, Nuritdinow T, Holway N, Schieker M, Daumer M, et al.
+        conference: Digital Biomarkers. 2018;79–89.
+      - title: "Reproducible Research for large scale data analysis."
+        link:  
+        authors: Hoeﬂing H, Rossini A.
+        conference: "Implementing Reproducible Research. New York: Chapman and Hall/CRC; 2014. p. 219–40."
 
-     - title: Validity of accelerometry in step detection and gait speed measurement in orthogeriatric patients.Continuous Monitoring of Patient Mobility for 18 Months Using Inertial Sensors following Traumatic Knee Injury: A Case Study. Digital Biomarkers.
-       link: "https://www.karger.com/Article/FullText/490919"
-       authors: Mueller A, Hoefling H, Nuritdinow T, Holway N, Schieker M, Daumer M, et al.
-       conference: Digital Biomarkers. 2018;79–89.
-
-     - title: Reproducible Research for large scale data analysis.
-       authors: Hoeﬂing H, Rossini A.
-       conference: Implementing Reproducible Research. New York: Chapman and Hall/CRC; 2014. p. 219–40.
 
 skills:
     title: Skills &amp; Proficiency
