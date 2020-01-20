@@ -60,6 +60,10 @@ training:
       link: "https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893"
       time: Ongoing
       provider: Udacity
+    - name: Histology, microscopy, anatomy and disease
+      link: "https://www.open.edu/openlearn/profiles/zw182283/achievements"
+      time: 2019
+      provider: OpenLearn online university
     - name: Deep Learning Specialization
       link: "https://www.coursera.org/account/accomplishments/specialization/QE3DKCYNEBPA"
       time: 2018
