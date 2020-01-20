@@ -9,7 +9,7 @@ description: Complete resume for Holger Hoefling
 theme_skin: green # blue turquoise green berry orange ceramic
 chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
 
-
+analytics: UA-156563448-2
 
 # Sass/SCSS
 sass:
