@@ -105,11 +105,11 @@ education:
         thesis under my advisor Prof. Dr. Rüdiger Kiesel.
 
 experiences:
-    - role: Lead of SDA - Machine Learning group
+    - role: Lead of Data Science - Machine Learning group
       time: 2018 - Present
       company: NX - NIBR, Novartis, Basel
       details: |
-        Lead of 2 associates dedicated to machine learning
+        Lead of currently 5 associates dedicated to machine learning
         in the Scientific Data Analysis (SDA) group in NIBR Informatics
         (NX). The group focuses on application of
         machine learning in cheminformatics as well as the application
