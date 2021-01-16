@@ -56,6 +56,10 @@ career-profile:
       as well deep learning on histopathology images.
 
 training:
+    - name: "NGINX Fundamentals: High Performance Servers from scratch"
+      link: "https://www.udemy.com/certificate/UC-a1a18ac5-f21e-4f15-b92b-731015837d4f/"
+      time: 01/2021
+      provider: Udemy
     - name: Deep Reinforcement Learning Nanodegree
       link: "https://confirm.udacity.com/SGETQ6EQ"
       time: 12/2019 - 03/2020
@@ -197,7 +201,7 @@ publications:
         authors: Mueller A, Hoefling H, Nuritdinow T, Holway N, Schieker M, Daumer M, et al.
         conference: Digital Biomarkers. 2018;79–89.
       - title: "Reproducible Research for large scale data analysis."
-        link:  
+        link:
         authors: Hoeﬂing H, Rossini A.
         conference: "Implementing Reproducible Research. New York: Chapman and Hall/CRC; 2014. p. 219–40."
 
