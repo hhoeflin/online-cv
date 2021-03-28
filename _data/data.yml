@@ -185,9 +185,13 @@ publications:
       please visit my [homepage](https://hhoeflin.github.io/pages/publications/)
     papers:
       - title: A deep learning-based model of normal histology
-        link: "https://www.biorxiv.org/content/10.1101/838417v1"
-        authors: 'Sing T*, Hoefling H*, Hossain I, Boisclair J, Doelemeyer A, Flandre T, et al. (* contr. equally)'
-        conference: bioRxiv. 2019;838417.
+        link: "https://doi.org/10.1177/0192623321993425"
+        authors: 'Hoefling H*, Sing T, *Hossain I, Boisclair J, Doelemeyer A, Flandre T, et al. (* contr. equally)'
+        conference: Toxicol. Pathology, SAGE Publications 2021.
+      - title: "Biomarker-Based Classification and Localization of Renal Lesions Using Learned Representations of Histology—A Machine Learning Approach to Histopathology"
+        link: "https://doi.org/10.1177/0192623320987202"
+        authors: 'Freyre CAC, Spiegel S, Gubser Keller C, Vandemeulebroecke M, Hoefling H, Dubost V, et al.'
+        conference: Toxicol. Pathology, SAGE Publications 2021.
       - title: 'Continuous Digital Monitoring of Walking Speed in Frail Elderly Patients: Noninterventional Validation Study and Longitudinal Clinical Trial.'
         link: "https://mhealth.jmir.org/2019/11/e15191/"
         authors: Mueller A, Hoefling HA, Muaremi A, Praestgaard J, Walsh LC, Bunte O, et al.
