@@ -44,16 +44,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      In my career I have worked on a wide range of data science
-      problems in the healthcare field. This experience spans
-      from working on clinical study protocols, the development
-      of predictive algorithms for kidney disease to the
-      statistical analysis of experiments in early non-clinical
-      research with microarray, NGS and other biomarker data.
+      My passion is to make advances in healthcare using data science and machine learning.
+      I am the lead of a group of 5 machine learning associates in NIBR, NX as well as one of the leads of the "AI and Tools" work-package
+      of the IMI - BigPicture consortium, aimed at advancing the state of AI in histopathology.
 
-      More recently I have been the leader of a small team of
-      machine learners working on applications in cheminformatics
-      as well deep learning on histopathology images.
+      In my career I have worked on a wide range of data science problems in the healthcare field.
+      This experience spans from working on clinical study protocols, the development of predictive
+      algorithms for kidney disease to the statistical analysis of experiments
+      in early non-clinical research with microarray, NGS and other biomarker data.
 
 training:
     - name: "NGINX Fundamentals: High Performance Servers from scratch"
