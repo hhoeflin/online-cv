@@ -54,6 +54,10 @@ career-profile:
       in early non-clinical research with microarray, NGS and other biomarker data.
 
 training:
+    - name: "The Rust programming language"
+      link: https://www.udemy.com/certificate/UC-41de808e-e831-48c5-bfda-46fadfd08dad/
+      time: 04/2021
+      provider: Udemy
     - name: "NGINX Fundamentals: High Performance Servers from scratch"
       link: "https://www.udemy.com/certificate/UC-a1a18ac5-f21e-4f15-b92b-731015837d4f/"
       time: 01/2021
