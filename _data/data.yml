@@ -52,6 +52,8 @@ career-profile:
       This experience spans from working on clinical study protocols, the development of predictive
       algorithms for kidney disease to the statistical analysis of experiments
       in early non-clinical research with microarray, NGS and other biomarker data.
+      More recently my focus has been on the analysis of histopathology images using
+      deep learning methods.
 
 training:
     - name: "The Rust programming language"
@@ -187,6 +189,10 @@ publications:
       A selection of recent publications. For a full list
       please visit my [homepage](https://hhoeflin.github.io/pages/publications/)
     papers:
+      - title: Digital endpoints for self-administered home-based functional assessment in Friedrichś ataxia
+        link:
+        authors: Mueller A, Paterson E, McIntosh A, Praestgaard J, Bylo M, Hoefling H et al.
+        conference: Annals of Clinical and translational Neurology. Accepted.
       - title: A deep learning-based model of normal histology
         link: "https://doi.org/10.1177/0192623321993425"
         authors: 'Hoefling H*, Sing T, *Hossain I, Boisclair J, Doelemeyer A, Flandre T, et al. (* contr. equally)'
@@ -217,17 +223,17 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: R (Statistics, Package programming)
+      - name: Python (Packages, Machine Learning)
         level: 99%
 
-      - name: Python (Packages, Machine Learning)
+      - name: R (Statistics, Package programming)
         level: 95%
 
       - name: Linux (CLI, makefiles, compile from source)
         level: 90%
 
-      - name: Microsoft Office
-        level: 60%
+      - name: High-Performance Computing
+        level: 80%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
