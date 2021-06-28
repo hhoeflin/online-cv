@@ -162,6 +162,12 @@ experiences:
 
         Recognized by MDx for performing duties above and
         beyond expectations for 3 different projects.
+    - role: Postdoctoral Researcher
+      time: 2009 - 2010
+      company: University of Freiburg - Institute of Medical Biometry and Statistics (IMBI)
+      details: |
+        Working on optimization algorithms for penalized regression techniques,
+        especially the Fused Lasso.
 
 projects:
     title: Open-source software projects
