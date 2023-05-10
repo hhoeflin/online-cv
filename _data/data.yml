@@ -45,7 +45,8 @@ career-profile:
     title: Career Profile
     summary: |
       My passion is to make advances in healthcare using data science and machine learning.
-      I am the lead of a group of 5 machine learning associates in NIBR, NX as well as one of the leads of the "AI and Tools" work-package
+      I am the lead of a group of 3 machine learning associates in NIBR, NX as well as one of the 
+      leads of the "AI and Tools" work-package
       of the IMI - BigPicture consortium, aimed at advancing the state of AI in histopathology.
 
       In my career I have worked on a wide range of data science problems in the healthcare field.
@@ -113,9 +114,9 @@ experiences:
       time: 2018 - Present
       company: NX - NIBR, Novartis, Basel
       details: |
-        Lead of currently 5 associates dedicated to machine learning
-        in the Scientific Data Analysis (SDA) group in NIBR Informatics
-        (NX). The group focuses on application of
+        Lead of currently 3 associates dedicated to machine learning
+        in asubteam of the Artificial Intelligence and Computational Sciences 
+        group in NIBR Informatics (NX). The group focuses on application of
         machine learning in cheminformatics as well as the application
         of deep learning models on histopathology data.
         Promoted to Associate Director in April 2021.
